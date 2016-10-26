@@ -1,0 +1,59 @@
+
+<center>
+<?php
+$array=array();
+foreach ($this->result as $value)
+{
+    $value['role'];
+    if(array_key_exists($value['role'], $array))
+    {
+        array_push($array[$value['role']], $value['resource']);
+    }
+    else 
+    {
+        $array[$value['role']]=array($value['resource']);
+    }
+}
+echo "<table border=2>";
+echo "<th> Role</th>";
+echo "<th> Menu</th>";
+
+foreach($array as $key=>$value)
+{
+    echo "<tr>";
+    echo "<td>".$key."</td>";
+    echo "<td>".implode(",",$value)."</td>";
+    echo "</tr>";
+        
+}
+
+echo "</table>";
+$array=array();
+foreach ($this->res as $value)
+{
+    $value['role'];
+    if(array_key_exists($value['role'], $array))
+    {
+        array_push($array[$value['role']], $value['user']);
+    }
+    else
+    {
+        $array[$value['role']]=array($value['user']);
+    }
+}
+echo "<table border=2>";
+echo "<th> Role</th>";
+echo "<th> user</th>";
+
+foreach($array as $key=>$value)
+{
+    echo "<tr>";
+    echo "<td>".$key."</td>";
+    echo "<td>".implode(",",$value)."</td>";
+    echo "</tr>";
+
+}
+
+echo "</table>";
+
+?>

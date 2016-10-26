@@ -1,0 +1,57 @@
+
+<center>
+<?php
+$form->prepare();
+
+echo $this->form()->openTag($form);
+echo $this->formRow($form->get('role'));
+
+echo "<br>";
+
+echo $this->formSubmit($form->get('submit'));
+
+// $form->setAttribute('action', $this->url('Login', array('action' => 'add')));
+
+echo $this->form()->closeTag();
+?>
+</center>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.1/jquery.validate.js"></script>
+<script>
+$(document).ready(function ()
+        {
+        $("form[name='role']").validate(
+                               {
+                                // Specify validation rules
+                                rules:
+                                {                        
+                                    role: "required",
+                                 },
+                                // Specify validation error messages
+                                messages:
+                                {
+                                    role: "Please enter your username",
+                                },
+
+                                   submitHandler: function(form)
+                                   {
+                                      var datastring = $("#role").serializeArray();
+                                      /* jQuery.each( datastring, function( i, field ) {
+                                          alert( field.value);
+                                        }); */
+                                       $.ajax({
+                                          type: "POST",
+                                          url: "/role",
+                                          data: datastring,
+                                          dataType:'json',
+                                          success: function(res) {
+                                               alert(res['success']);
+                                               console.log(res['data']);
+                                          }
+                                      });
+                                  }
+                                 });
+
+     });
+</script>

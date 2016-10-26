@@ -1,0 +1,783 @@
+2016-10-25T11:13:24+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:26+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:27+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:27+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:27+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:27+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:27+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:27+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:27+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:27+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:27+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:27+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:27+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:27+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:27+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:27+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:28+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:28+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:28+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:28+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:28+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:28+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:28+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:28+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:28+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:28+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:28+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:28+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:28+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:28+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:28+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:28+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:28+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:28+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:28+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:28+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:28+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:28+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:28+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:28+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:28+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:28+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:28+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:28+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:28+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:28+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:29+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:29+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:30+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:30+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:32+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:32+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:32+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:32+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:32+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:32+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:32+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:32+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:32+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:32+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:32+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:32+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:32+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:32+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:32+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:32+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:32+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:32+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:32+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:32+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:33+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:33+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:33+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:33+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:33+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:33+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:33+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:33+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:33+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:33+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:33+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:33+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:33+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:33+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:33+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:33+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:33+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:33+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:33+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:33+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:33+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:33+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:36+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:36+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:36+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:36+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:36+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:36+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:36+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:36+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:36+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:36+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:37+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:37+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:37+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:37+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:37+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:37+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:37+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:37+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:37+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:37+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:37+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:37+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:37+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:37+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:37+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:37+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:37+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:37+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:37+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:37+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:37+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:37+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:37+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:37+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:37+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:37+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:37+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:37+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:37+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:37+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:38+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:38+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:40+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:40+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:41+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:41+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:41+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:41+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:41+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:41+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:41+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:41+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:41+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:41+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:41+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:41+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:41+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:41+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:41+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:41+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:41+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:41+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:41+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:41+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:41+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:41+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:41+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:41+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:41+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:41+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:41+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:41+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:42+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:42+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:42+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:42+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:42+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:42+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:42+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:42+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:42+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:42+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:42+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:42+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:50+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:50+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:51+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:51+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:51+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:51+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:51+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:51+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:51+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:51+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:51+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:51+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:51+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:51+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:51+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:51+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:51+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:51+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:51+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:51+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:51+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:51+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:51+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:51+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:51+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:51+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:52+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:52+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:52+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:52+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:52+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:52+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:52+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:52+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:52+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:52+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:52+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:52+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:52+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:52+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T11:13:52+05:30
+                    NOTICE (5): Undefined index: whitelist_url
+
+2016-10-25T11:13:52+05:30
+                    WARN (4): in_array() expects parameter 2 to be array, null given
+
+2016-10-25T12:38:09+05:30
+                    ERR (3): Class 'Registration\RegistrationTable' not found in /var/www/html/ZF2-master/module/Registration/Module.php line 55
+
+2016-10-25T14:48:16+05:30
+                    ERR (3): Call to a member function fetchAll() on a non-object in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 30
+
+2016-10-25T14:51:20+05:30
+                    ERR (3): Call to a member function fetchAll() on a non-object in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 30
+
+2016-10-25T14:53:09+05:30
+                    ERR (3): Call to a member function saveMenu() on a non-object in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 46
+
+2016-10-25T15:59:22+05:30
+                    NOTICE (5): Undefined variable: request
+
+2016-10-25T15:59:22+05:30
+                    ERR (3): Call to a member function getPost() on a non-object in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 27
+
+2016-10-25T15:59:23+05:30
+                    NOTICE (5): Undefined variable: request
+
+2016-10-25T15:59:23+05:30
+                    ERR (3): Call to a member function getPost() on a non-object in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 27
+
+2016-10-25T16:38:53+05:30
+                    ERR (3): Class 'Application\Controller\RoleForm' not found in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 65
+
+2016-10-25T16:39:56+05:30
+                    ERR (3): Argument 1 passed to Application\Model\MenuTable::saveMenu() must be an instance of Application\Model\Menu, instance of Application\Model\Role given, called in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php on line 84 and defined
+
+2016-10-25T16:39:56+05:30
+                    ERR (3): Undefined property: Application\Model\Role::$parent_id in /var/www/html/ZF2-master/module/Application/src/Application/Model/MenuTable.php line 65
+
+2016-10-25T16:41:38+05:30
+                    ERR (3): Argument 1 passed to Application\Model\MenuTable::saveMenu() must be an instance of Application\Model\Menu, instance of Application\Model\Role given, called in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php on line 84 and defined
+
+2016-10-25T16:41:39+05:30
+                    ERR (3): Undefined property: Application\Model\Role::$parent_id in /var/www/html/ZF2-master/module/Application/src/Application/Model/MenuTable.php line 65
+

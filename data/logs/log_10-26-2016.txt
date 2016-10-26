@@ -1,0 +1,477 @@
+2016-10-26T10:35:37+05:30
+                    ERR (3): Class 'Application\Controller\RolePermissionForm' not found in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 94
+
+2016-10-26T10:37:30+05:30
+                    NOTICE (5): Undefined variable: form
+
+2016-10-26T10:37:30+05:30
+                    ERR (3): Call to a member function prepare() on a non-object in /var/www/html/ZF2-master/module/Application/view/application/index/rolepermission.phtml line 4
+
+2016-10-26T10:38:36+05:30
+                    ERR (3): Class 'Application\RolePermission' not found in /var/www/html/ZF2-master/module/Application/Module.php line 133
+
+2016-10-26T11:11:23+05:30
+                    NOTICE (5): Undefined property: Application\Controller\IndexController::$userTable
+
+2016-10-26T11:11:23+05:30
+                    WARN (4): Missing argument 1 for Zend\Db\ResultSet\ResultSet::setArrayObjectPrototype(), called in /var/www/html/ZF2-master/module/Application/Module.php on line 163 and defined
+
+2016-10-26T11:11:23+05:30
+                    ERR (3): Undefined variable: arrayObjectPrototype in /var/www/html/ZF2-master/vendor/zendframework/zendframework/library/Zend/Db/ResultSet/ResultSet.php line 64
+
+2016-10-26T11:13:00+05:30
+                    NOTICE (5): Undefined property: Application\Controller\IndexController::$userTable
+
+2016-10-26T11:13:04+05:30
+                    NOTICE (5): Undefined property: Application\Controller\IndexController::$userTable
+
+2016-10-26T11:13:04+05:30
+                    ERR (3): Undefined property: Application\Controller\IndexController::$userRoleTable in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 227
+
+2016-10-26T11:13:08+05:30
+                    NOTICE (5): Undefined property: Application\Controller\IndexController::$userTable
+
+2016-10-26T11:13:17+05:30
+                    NOTICE (5): Undefined property: Application\Controller\IndexController::$userTable
+
+2016-10-26T11:13:17+05:30
+                    ERR (3): Undefined property: Application\Controller\IndexController::$userRoleTable in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 227
+
+2016-10-26T11:14:13+05:30
+                    NOTICE (5): Undefined property: Application\Controller\IndexController::$userTable
+
+2016-10-26T11:14:17+05:30
+                    NOTICE (5): Undefined property: Application\Controller\IndexController::$userTable
+
+2016-10-26T11:14:17+05:30
+                    ERR (3): Undefined property: Application\Controller\IndexController::$userRoleTable in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 228
+
+2016-10-26T13:07:23+05:30
+                    ERR (3): Declaration of Application\Controller\IndexController::onDispatch() must be compatible with Zend\Mvc\Controller\AbstractController::onDispatch(Zend\Mvc\MvcEvent $e) in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 22
+
+2016-10-26T13:23:37+05:30
+                    NOTICE (5): Undefined variable: msg
+
+2016-10-26T13:24:31+05:30
+                    NOTICE (5): Undefined variable: msg
+
+2016-10-26T13:25:25+05:30
+                    NOTICE (5): Undefined variable: msg
+
+2016-10-26T13:26:21+05:30
+                    NOTICE (5): Undefined variable: msg
+
+2016-10-26T15:00:34+05:30
+                    NOTICE (5): Undefined property: Application\Controller\IndexController::$getRolePermissionTable
+
+2016-10-26T15:00:34+05:30
+                    ERR (3): Call to a member function fetchAll() on a non-object in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 212
+
+2016-10-26T15:01:14+05:30
+                    ERR (3): Call to undefined function Application\Controller\getRoleTable() in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 215
+
+2016-10-26T15:01:43+05:30
+                    NOTICE (5): Undefined variable: rowset
+
+2016-10-26T15:01:43+05:30
+                    ERR (3): Call to a member function current() on a non-object in /var/www/html/ZF2-master/module/Application/src/Application/Model/RoleTable.php line 75
+
+2016-10-26T15:18:49+05:30
+                    ERR (3): syntax error, unexpected '}' in /var/www/html/ZF2-master/module/Application/view/application/index/list.phtml line 15
+
+2016-10-26T15:19:21+05:30
+                    WARN (4): array_push() expects parameter 1 to be array, string given
+
+2016-10-26T15:19:21+05:30
+                    WARN (4): implode(): Invalid arguments passed
+
+2016-10-26T15:19:21+05:30
+                    WARN (4): array_push() expects parameter 1 to be array, null given
+
+2016-10-26T15:19:21+05:30
+                    WARN (4): implode(): Invalid arguments passed
+
+2016-10-26T15:19:21+05:30
+                    WARN (4): array_push() expects parameter 1 to be array, null given
+
+2016-10-26T15:19:21+05:30
+                    WARN (4): implode(): Invalid arguments passed
+
+2016-10-26T15:22:09+05:30
+                    NOTICE (5): Array to string conversion
+
+2016-10-26T15:22:09+05:30
+                    ERR (3): Array to string conversion in /var/www/html/ZF2-master/module/Application/view/application/index/list.phtml line 20
+
+2016-10-26T15:23:55+05:30
+                    NOTICE (5): Undefined variable: msg
+
+2016-10-26T17:01:02+05:30
+                    NOTICE (5): Undefined variable: array
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): array_key_exists() expects parameter 2 to be array, null given
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:01:02+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:01:35+05:30
+                    NOTICE (5): Undefined variable: array
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): array_key_exists() expects parameter 2 to be array, null given
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:01:35+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:19+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): array_key_exists(): The first argument should be either a string or an integer
+
+2016-10-26T17:02:20+05:30
+                    WARN (4): Illegal offset type
+
+2016-10-26T17:08:38+05:30
+                    ERR (3): syntax error, unexpected ')', expecting '(' in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 238
+
+2016-10-26T17:14:31+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:14:31+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:14:31+05:30
+                    WARN (4): array_merge(): Argument #1 is not an array
+
+2016-10-26T17:14:31+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T17:14:31+05:30
+                    ERR (3): Undefined variable: result in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 250
+
+2016-10-26T17:14:47+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:14:47+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:14:47+05:30
+                    WARN (4): array_merge(): Argument #1 is not an array
+
+2016-10-26T17:14:47+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T17:14:49+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:14:49+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:14:49+05:30
+                    WARN (4): array_merge(): Argument #1 is not an array
+
+2016-10-26T17:14:49+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T17:14:49+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:14:49+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:14:49+05:30
+                    WARN (4): array_merge(): Argument #1 is not an array
+
+2016-10-26T17:14:49+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T17:15:46+05:30
+                    ERR (3): syntax error, unexpected ';' in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 251
+
+2016-10-26T17:15:56+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:15:56+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:15:56+05:30
+                    WARN (4): array_merge(): Argument #1 is not an array
+
+2016-10-26T17:15:56+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T17:15:56+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:15:56+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:15:56+05:30
+                    WARN (4): array_merge(): Argument #1 is not an array
+
+2016-10-26T17:15:57+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:15:57+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:15:57+05:30
+                    WARN (4): array_merge(): Argument #1 is not an array
+
+2016-10-26T17:15:57+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T17:15:57+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:15:57+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:15:57+05:30
+                    WARN (4): array_merge(): Argument #1 is not an array
+
+2016-10-26T17:16:16+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:16:16+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:16:16+05:30
+                    WARN (4): array_merge(): Argument #1 is not an array
+
+2016-10-26T17:16:16+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T17:16:16+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:16:17+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:16:17+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:16:17+05:30
+                    WARN (4): array_merge(): Argument #1 is not an array
+
+2016-10-26T17:16:17+05:30
+                    WARN (4): Invalid argument supplied for foreach()
+
+2016-10-26T17:16:17+05:30
+                    WARN (4): array_keys() expects parameter 1 to be array, object given
+
+2016-10-26T17:27:43+05:30
+                    NOTICE (5): Undefined index: resource
+
+2016-10-26T17:27:43+05:30
+                    ERR (3): Undefined index: resource in /var/www/html/ZF2-master/module/Application/view/application/index/list.phtml line 12
+
+2016-10-26T17:27:43+05:30
+                    NOTICE (5): Undefined index: resource
+
+2016-10-26T17:27:43+05:30
+                    ERR (3): Undefined index: resource in /var/www/html/ZF2-master/module/Application/view/application/index/list.phtml line 12
+
+2016-10-26T17:28:16+05:30
+                    NOTICE (5): Undefined index: user
+
+2016-10-26T17:28:16+05:30
+                    ERR (3): Undefined index: resource in /var/www/html/ZF2-master/module/Application/view/application/index/list.phtml line 12
+
+2016-10-26T17:40:02+05:30
+                    NOTICE (5): Undefined property: Application\Model\Menu::$username
+
+2016-10-26T17:40:02+05:30
+                    ERR (3): Undefined property: Application\Model\Menu::$username in /var/www/html/ZF2-master/module/Application/src/Application/Controller/IndexController.php line 223
+
+2016-10-26T17:48:38+05:30
+                    NOTICE (5): Undefined variable: msg
+
+2016-10-26T17:48:38+05:30
+                    NOTICE (5): Undefined variable: msg
+
+2016-10-26T18:01:37+05:30
+                    ERR (3): Cannot open 'php_browscap.ini' for reading in Unknown line 0
+
+2016-10-26T18:02:55+05:30
+                    ERR (3): syntax error, unexpected '<' in /var/www/html/ZF2-master/module/Login/view/login/login/login.phtml line 17
+
+2016-10-26T18:02:56+05:30
+                    ERR (3): syntax error, unexpected '<' in /var/www/html/ZF2-master/module/Login/view/login/login/login.phtml line 17
+
+2016-10-26T18:03:41+05:30
+                    ERR (3): Cannot open 'php_browscap.ini' for reading in Unknown line 0
+

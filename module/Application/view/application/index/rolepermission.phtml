@@ -1,0 +1,63 @@
+
+<center>
+<?php
+$form->prepare();
+
+echo $this->form()->openTag($form);
+echo $this->formRow($form->get('role'));
+
+echo "<br>";
+echo $this->formRow($form->get('resource'));
+
+echo "<br>";
+echo $this->formSubmit($form->get('submit'));
+
+// $form->setAttribute('action', $this->url('Login', array('action' => 'add')));
+
+echo $this->form()->closeTag();
+?>
+</center>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.1/jquery.validate.js"></script>
+<script>
+$(document).ready(function ()
+        {
+        $("form[name='rolepermission']").validate(
+                               {
+                                // Specify validation rules
+                                rules:
+                                {                        
+                                    role: "required",
+                                    resource: "required"
+                                 },
+                                // Specify validation error messages
+                                messages:
+                                {
+                                    role: "Please enter your username",
+                                    resource:"please enter resource"
+                                },
+
+                                   submitHandler: function(form)
+                                   {
+                                      var datastring = $("#rolepermission").serializeArray();
+                                      /* jQuery.each( datastring, function( i, field ) {
+                                          alert( field.value);
+                                        }); */
+                                       $.ajax({
+                                          type: "POST",
+                                          url: "/rolepermission",
+                                          data: datastring,
+                                          dataType:'json',
+                                          success: function(res) {
+                                              
+                                               alert(res['success']);
+                                               console.log(res['data']);
+                                          }
+                                      });
+                                  }
+                                 });
+
+     });
+</script>

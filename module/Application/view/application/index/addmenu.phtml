@@ -1,0 +1,71 @@
+
+<center>
+<?php
+$form->prepare();
+
+echo $this->form()->openTag($form);
+echo $this->formRow($form->get('menu'));
+echo "<br>";
+echo $this->formRow($form->get('router'));
+echo "<br>";
+echo $this->formRow($form->get('parent_id'));
+echo "<br>";
+
+echo $this->formSubmit($form->get('submit'));
+
+// $form->setAttribute('action', $this->url('Login', array('action' => 'add')));
+
+echo $this->form()->closeTag();
+if($msg)
+{
+?>
+<h4> <?php echo $this->msg; }?></h4>
+</center>
+
+                               <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.1/jquery.validate.js"></script>
+<script>
+$(document).ready(function ()
+        {
+        $("form[name='menu']").validate(
+                               {
+                                // Specify validation rules
+                                rules:
+                                {                        
+                                    menu: "required",
+                                    router: "required",
+                                    parent_id: "required",
+                                    
+                                 },
+                                // Specify validation error messages
+                                messages:
+                                {
+                                    menu: "Please enter your menu",
+                                    router: "Please enter your router",
+                                    parent_id: "Please enter your parent_id",
+                                    
+                                },
+
+                                   submitHandler: function(form)
+                                   {
+                                      var datastring = $("#menu").serializeArray();
+                                      /* jQuery.each( datastring, function( i, field ) {
+                                          alert( field.value);
+                                        }); */
+                                       $.ajax({
+                                          type: "POST",
+                                          url: "/menu",
+                                          data: datastring,
+                                          dataType:'json',
+                                          success: function(res) {
+                                              console.log(res);
+                                           
+                                               alert(res['success']);
+                                               console.log(res['data']);
+                                          }
+                                      });
+                                  }
+                                 });
+
+     });
+</script>
